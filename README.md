@@ -1,7 +1,7 @@
 # api-http-verbs-assignment-wrap-up
 
 
-## API of Founding Fathers
+## API of Founding Fathers :scroll:
 In this assignment I practiced the use of HTTP verbs (use the right verb for the right purpose) + structuring my files. I separated my code into routes, controllers, and added an extra helper function.
 
 + Create your own in-memory database, this can be an array of different cities or countries. The choice is yours. 

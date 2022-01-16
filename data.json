@@ -1,0 +1,34 @@
+[
+  {
+    "name": "George Washington",
+    "isPresident": true,
+    "born": 1732,
+    "died": 1799
+  },
+  {
+    "name": "Alexander Hamilton",
+    "isPresident": false,
+    "born": 1755,
+    "died": 1804
+  },
+  {
+    "name": "Benjamin Franklin",
+    "isPresident": false,
+    "born": 1706,
+    "died": 1790
+  },
+  { "name": "John Adams", 
+    "isPresident": true, 
+    "born": 1735, 
+    "died": 1826 },
+  {
+    "name": "Thomas Jefferson",
+    "isPresident": true,
+    "born": 1743,
+    "died": 1826
+  },
+  { "name": "James Madison", 
+    "isPresident": true, 
+    "born": 1751, 
+    "died": 1836 }
+]

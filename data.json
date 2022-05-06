@@ -30,5 +30,9 @@
   { "name": "James Madison", 
     "isPresident": true, 
     "born": 1751, 
-    "died": 1836 }
+    "died": 1836 },
+  { "name": "Jon Jay", 
+      "isPresident": false, 
+      "born": 1745, 
+      "died": 1829 }
 ]
